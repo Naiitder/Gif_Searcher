@@ -1,5 +1,10 @@
 # Gif Searching web made with React + Vite
 
--> Searching GIF's with an API endpoint.
+This project was created by following an online course I purchased to learn React and JavaScript. It served as a learning experience.
 
-This project was made following a React + JS learning course.
+
+## What I learned:
+- React components
+- State management
+- JavaScript fundamentals
+- API Connection
